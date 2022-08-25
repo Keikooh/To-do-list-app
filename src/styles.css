@@ -1,6 +1,7 @@
 html, body{
     margin: 0;
     background-color: #ddd;
+    color: rgb(114, 114, 255);
 }
 img {
     width: 150px;
